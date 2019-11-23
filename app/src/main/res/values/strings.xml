@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SUT3</string>
+    <string name="ingrese_password">ingrese password</string>
+    <string name="ingrese_correo">ingrese correo</string>
+    <string name="bienvenido">bienvenido</string>
+    <string name="ingrese_correo1">ingrese correo1</string>
+    <string name="ingrese_contrase_a">ingrese contraseña</string>
+    <string name="registrar_usuario">Registrar Usuario</string>
+    <string name="ingrese_mdulo">Ingrese Mdulo</string>
+    <string name="ingrese_modulo">Ingrese Modulo</string>
+    <string name="ingrese_piso_de_destino">Ingrese piso de destino</string>
+    <string name="ingrese_piso">Ingrese piso</string>
+    <string name="ingrese_piso_destino">Ingrese Piso destino</string>
+    <string name="ingrese_salon">Ingrese Salon</string>
+    <string name="recomendaciones">Recomendaciones</string>
+    <string name="ingrese_recomendacion">Ingrese recomendacion</string>
+    <string name="agregar_recomendacion">Agregar Recomendacion</string>
+    <string name="camino_a_recorrer">AQUI ESTARIA VERSION 3D DEL CAMINO A RECORRER</string>
+
+</resources>
